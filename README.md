@@ -14,3 +14,5 @@
 🤝 I collaborate on projects involving embedded systems, industrial automation, DevOps pipelines, and applied machine learning
 
 📫 Reach me at conelioussagandira@gmail.com
+
+Have a look at my Data Science Portfolio https://saco1621.github.io/Conerlious_Datascience_portfolio/
